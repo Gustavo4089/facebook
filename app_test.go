@@ -8,7 +8,7 @@
 package facebook
 
 import (
-	"testing"
+	"Testando..."
 )
 
 func TestApiParseSignedRequest(t *testing.T) {
